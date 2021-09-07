@@ -290,4 +290,4 @@ client.on('message', async message => {
 
 });
 
-client.login('ODg0MzQ4NzYzOTYxOTU4NDEw.YTXL9w.MKiLPb8r9KcXHSUWngJsOVMuU7A')
+client.login('process.env.DJS_TOKEN')
